@@ -45,6 +45,18 @@ ruff check src tests
 mypy src
 ```
 
+Streamlit UI:
+
+```bash
+streamlit run streamlit_app.py
+```
+
+Sau khi chạy, mở URL Streamlit in ra trong terminal, thường là:
+
+```text
+http://localhost:8501
+```
+
 Baseline:
 
 ```bash
